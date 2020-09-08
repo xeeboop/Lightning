@@ -10,7 +10,7 @@ void setup()
   strokeWeight(2);
   background(10);  
   tree = loadImage("Png.png");
-  tree.resize(100,100);
+  tree.resize(80,80);
   frameRate(10);
 }
   
